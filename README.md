@@ -1,1 +1,1 @@
-# QuickAI---Client
+# QuickAI-Client
