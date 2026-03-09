@@ -96,21 +96,15 @@ git clone https://github.com/your-username/quickai-saas-app.git
 cd quickai-saas-app
 ```
 
-### 2 Install backend dependencies
 
-```bash
-cd server
-npm install
-```
-
-### 3 Install frontend dependencies
+### 2 Install frontend dependencies
 
 ```bash
 cd client
 npm install
 ```
 
-### 4 Setup environment variables
+### 3 Setup environment variables
 
 Create a `.env` file in the server directory and configure the following:
 
@@ -121,13 +115,8 @@ CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
 AI_API_KEY=your_ai_api_key
 ```
 
-### 5 Run backend server
 
-```bash
-npm run dev
-```
-
-### 6 Run frontend application
+### 4 Run frontend application
 
 ```bash
 cd client
