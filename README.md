@@ -4,7 +4,10 @@ This project is a **Full Stack AI SaaS Web Application** built using the **PERN 
 
 The application integrates multiple **AI utilities** such as article generation, image generation, resume analysis, and image editing tools. It also includes **user authentication and subscription billing**, making it a complete SaaS-style product.
 
-<img width="1792" height="929" alt="QuickAI App Screenshot" src="https://github.com/user-attachments/assets/placeholder-image.png" />
+<img width="1920" height="1080" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/71293c85-42ba-47ae-a298-bee2158f16a3" />
+<img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/f499d837-1d03-4b1c-9889-d5fde3ba83da" />
+
+
 
 ---
 
